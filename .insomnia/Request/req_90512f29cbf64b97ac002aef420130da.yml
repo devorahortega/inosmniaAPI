@@ -1,0 +1,21 @@
+_id: req_90512f29cbf64b97ac002aef420130da
+type: Request
+parentId: wrk_fcf157eee48540cbb5ce4417af653787
+modified: 1666974031969
+created: 1666899867392
+url: https://cat-fact.herokuapp.com/facts
+name: New Request
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1666899867392
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
